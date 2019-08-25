@@ -3,6 +3,10 @@
 menu:
   主页: /
   随笔: /tags/随笔/
+  技术笔记: /tags/技术笔记/
+  Linux: /tags/Linux/
+  ARM: /tags/ARM/
+  C++: /tags/C++/
 
 # SubNav
 subnav:
@@ -68,7 +72,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: /img/head.jpg
 
 #是否开启分享
 share_jia: true
